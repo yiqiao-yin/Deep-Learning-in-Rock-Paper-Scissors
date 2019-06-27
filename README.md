@@ -33,7 +33,7 @@ The following is a summary of the CNN model.
 Next we have the performance of training and validating for this machine.
 
 <p align="center">
-  <img width="400" src="https://github.com/yiqiao-yin/Deep-Learning-in-Rock-Paper-Scissors/blob/master/figs/train-validate.png">
+  <img width="300" src="https://github.com/yiqiao-yin/Deep-Learning-in-Rock-Paper-Scissors/blob/master/figs/train-validate.png">
 </p>
 
 
@@ -44,7 +44,7 @@ Notebook (written in .ipynb) is uploaded [here](https://github.com/yiqiao-yin/De
 For example, I uploaded 6 images randomly and they are classified correctly (screenshot below).
 
 <p align="center">
-  <img width="300" src="https://github.com/yiqiao-yin/Deep-Learning-in-Rock-Paper-Scissors/blob/master/figs/validate.PNG">
+  <img width="800" src="https://github.com/yiqiao-yin/Deep-Learning-in-Rock-Paper-Scissors/blob/master/figs/validate.PNG">
 </p>
 
 # Future Work
