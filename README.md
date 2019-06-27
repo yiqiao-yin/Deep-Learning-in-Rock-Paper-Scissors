@@ -4,7 +4,7 @@ This is a mini project (I did it for fun!) on multi-label classification using d
 
 # Acknowledgement
 
-This mini project is sourced from Convolutional Neural Network in TensorFlow taught by Professor Andrew Ng on Coursera. It is also a part of the TensorFlow Certification.
+This mini project is sourced from Convolutional Neural Network in TensorFlow taught by Professor Andrew Ng and Google veteran Laurence Moroney on Coursera. It is also a part of the TensorFlow Concentration Certificate.
 
 # Data
 
