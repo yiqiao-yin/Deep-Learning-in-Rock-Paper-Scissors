@@ -27,7 +27,7 @@ Once we understand the data, we create an algorithm to train a neural network to
 The following is a summary of the CNN model.
 
 <p align="center">
-  <img width="800" src="https://github.com/yiqiao-yin/Deep-Learning-in-Rock-Paper-Scissors/blob/master/figs/summary.PNG">
+  <img width="400" src="https://github.com/yiqiao-yin/Deep-Learning-in-Rock-Paper-Scissors/blob/master/figs/summary.PNG">
 </p>
 
 Next we have the performance of training and validating for this machine.
